@@ -9,7 +9,7 @@ This program prompts the user to input:
 2. **Weight** (in kilograms).
 
 It then calculates the BMI using the formula:
-\[ \text{BMI} = \frac{\text{Weight (kg)}}{\text{Height (m)}^2} \]
+BMI = Weight/Height^2
 
 The resulting BMI is then printed as an integer.
 
